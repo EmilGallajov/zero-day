@@ -50,3 +50,6 @@ user_name=admin%27+or+sleep%2810%29%23&user_password=adminpass&login=
 ## Impact:
 - In a time-based SQL injection attack, an attacker manipulates SQL queries to measure response times and infer information based on delays. This type of attack is useful when the application doesn’t return direct errors or output that can be used to assess query behavior.
 An attacker can use time-based SQL injection to extract the contents of a database.
+
+## Reproduce:
+- [vuldb.com link](https://vuldb.com/?id.282927)

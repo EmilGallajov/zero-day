@@ -52,4 +52,5 @@ user_name=admin%27+or+sleep%2810%29%23&user_password=adminpass&login=
 An attacker can use time-based SQL injection to extract the contents of a database.
 
 ## Reproduce:
-- [vuldb.com link](https://vuldb.com/?id.282927)
+- [vuldb.com link for CVE-2024-10758](https://vuldb.com/?id.282927)
+- [cvefeed.io link for CVE-2024-10758](https://cvefeed.io/vuln/detail/CVE-2024-10758)

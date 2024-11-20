@@ -193,3 +193,6 @@ if (!in_array($file_extension, $allowed_extensions)) {
 }
 ```
 
+## References:
+- [cvefeed.io link for CVE-2024-10999](https://cvefeed.io/vuln/detail/CVE-2024-10999)
+- [cvefeed.io link for CVE-2024-11000](https://cvefeed.io/vuln/detail/CVE-2024-11000)

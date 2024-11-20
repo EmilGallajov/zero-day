@@ -54,3 +54,6 @@ it will dump admin data in the database:
 - Prepared Statements: The query now uses prepare() and bind_param() methods, which ensure that input values are safely bound to the query without risking SQL injection.
 - Data Type Binding: bind_param() specifies the data types of the parameters (e.g., "sssi" for string, string, string, integer), adding an extra layer of security by validating input types.
 - Validation and Escaping: Prepared statements handle escaping of special characters automatically, reducing the risk of injection.
+
+## References:
+[cvefeed.io link for CVE-2024-11058](https://cvefeed.io/vuln/detail/CVE-2024-11058)
